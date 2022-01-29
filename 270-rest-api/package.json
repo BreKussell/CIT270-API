@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "jest": "^27.4.7"
+  },
+  "name": "cit-270",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Breanna",
+  "license": "ISC",
+  "description": ""
+}
